@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.2.2",
+    "@capacitor/cli": "^5.2.2",
+    "@capacitor/core": "^5.2.2",
+    "nuxt": "^2.17.1"
+  },
+  "devDependencies": {
+    "@cypress/vue": "^2.2.2",
+    "@nuxtjs/google-fonts": "^3.0.2",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "cypress": "^12.17.3",
+    "nyc": "^15.1.0",
+    "sass": "^1.64.2",
+    "sass-loader": "^10.4.1",
+    "vuetify": "^2.6.10"
+  }
+}

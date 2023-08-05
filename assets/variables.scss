@@ -1,0 +1,31 @@
+$body-font-family: 'Quicksand', san-serif !default;
+$material-dark: (
+    'background': #FFC700,
+);
+
+.text-blue input {
+    color: #100073 !important;
+    font-size: 1.2em;
+}
+
+.v-input__append-inner {
+    margin-top: 0.5em !important;
+  }
+
+$headings: (
+    'h1': (
+        'font-family': 'Bungee',
+        'size': 4.0rem,
+        'weight': 800,
+        'line-height': 4.0rem,
+        'text-transform': false,
+    ),
+    'h2': (
+        'font-family': 'Montserrat',
+        'size': 2.0rem,
+        'weight': 500,
+        'line-height': 2.0rem,
+        'text-transform': false,
+    )
+)
+  
